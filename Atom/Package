@@ -1,7 +1,0 @@
-atom-python-run : input을 받을 수 있도록 cmd로 연결 (f5 or f6)
-emmet : web관련
-highlight-selected :  더블클릭하면 하얗게 표시
-minimap : 오른쪽에 미니맵 표시
-minimap-highlight-selected : 미니맵에 더블클릭 하얗게
-script : 컴파일 가능하게
-atom-beautify : 좋게 표현
